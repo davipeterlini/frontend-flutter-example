@@ -1,0 +1,1 @@
+ /Users/davi.peterlini/project/examples/frontend-flutter-example/.dart_tool/flutter_build/d4d5bd425ed497620b50f5aaa24b0843/native_assets.yaml: 
